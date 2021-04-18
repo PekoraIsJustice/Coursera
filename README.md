@@ -1,4 +1,4 @@
 # Coursera
 Self-learning 
 
-Machine Learning 2020 S
+Machine Learning 2020 Sep. 28
